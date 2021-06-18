@@ -21,7 +21,7 @@
 .text-container {
   display: flex;
   flex-direction: column;
-  margin-left: 200px;
+  margin-left: 100px;
   margin-top: 200px;
   font-family: 'Times New Roman', Times, serif;
 }
